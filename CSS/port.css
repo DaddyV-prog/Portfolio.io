@@ -12,6 +12,7 @@ header{
     top: 50px;
 }
 div.nav_bar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
     height: 30px;
     width: 600px;
     border-style: solid;
@@ -31,4 +32,25 @@ a{
 }
 a:visited{
     color: red;
+}
+div.box{
+    width: inherit;
+    height: 400px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style:normal ;
+    background-color:red ;
+}
+#frame{
+    height: 300px;
+    width: 300px;
+    position: relative;
+    left: 900px;
+    border-style: solid;
+}
+.intro{
+    font-size: xx-large;
+    letter-spacing: 10px;
+    position: absolute;
+    left: 300px; 
+    top: 250px;
 }
