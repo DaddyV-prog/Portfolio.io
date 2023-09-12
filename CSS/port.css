@@ -86,8 +86,9 @@ div.services{
     position: absolute;
     left: 100px;
     top: 750px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 .campaigns{
     height: 200px;
@@ -99,8 +100,9 @@ div.services{
     position: absolute;
     left: 550px;
     top: 750px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 .websites{
     height: 200px;
@@ -112,8 +114,9 @@ div.services{
     position: absolute;
     left: 1000px;
     top: 750px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 .digital_dev{
     height: 200px;
@@ -125,8 +128,9 @@ div.services{
     position: absolute;
     left: 100px;
     top: 1150px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 .business_reg{
     height: 200px;
@@ -138,8 +142,9 @@ div.services{
     position: absolute;
     left: 550px;
     top: 1150px;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    cursor: pointer;
 }
 .online_market{
     height: 200px;
@@ -151,6 +156,12 @@ div.services{
     position: absolute;
     left: 1000px;
     top: 1150px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+footer{
+    height: 200px;
+    width: inherit;
     background-color: black;
-    color: white;
 }
