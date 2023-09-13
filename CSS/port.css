@@ -160,6 +160,40 @@ div.services{
     color: black;
     cursor: pointer;
 }
+div.form_box{
+    width: inherit;
+    height: 400px;
+    background-color: red;
+}
+.signup{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    text-align: center;
+}
+.form_intro1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    
+}
+input{
+    width: 20%;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+input[type="text"]{
+    position: absolute;
+    left: 200px;
+}
+input[type="tel"]{
+     position: absolute;
+    left: 600px;
+}
+input[type="email"]{
+    position: absolute;
+    left: 1000px;
+}
+
 footer{
     height: 200px;
     width: inherit;
